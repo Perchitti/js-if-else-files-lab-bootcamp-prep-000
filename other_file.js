@@ -1,2 +1,2 @@
 console.log(name)
-var index = required ("./index.js")
+var index = require("./index.js")
