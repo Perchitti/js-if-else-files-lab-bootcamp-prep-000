@@ -7,8 +7,7 @@ if (name === "Susan"){
   console.log("Expected the name to be Susan")
 }
 
-var tests = require("./tests.js")
-console.log(tests.height)
+
 // Don't worry about this
 module.exports = { name, height
 }
